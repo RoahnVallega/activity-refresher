@@ -9,6 +9,7 @@ export class StudentList {
 
     getStudents() {
         return this.students;
+        wasdzxcw
     }
 
     updateStudentName(id: string, name: string) {
@@ -55,11 +56,11 @@ export class StudentList {
     }
 
     removeStudent(id: string) {
-        // this.students.splice(index, 1)
+        // this.students.splice(index, 1)123123123123
     }
 
     updateCollege(id: string, newCollegeName: string) {
-        // find student using id
+        // find student using id123123123
     }
 
     updateAddress(id: string, newAddress: string) {
